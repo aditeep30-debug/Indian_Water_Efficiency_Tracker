@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Jal Rekha",
+      "hasCanvas": false,
+      "bodyTextLen": 13599,
+      "bodyTextHash": "48a40c87eaa95807d41d3bf54f4670eb83c99590c7c78ed1684d465e971a297d",
+      "bodyTextPrefix": "Jal Rekha Efficiency Compare Climate Groundwater Access Sources ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Jal Rekha",
+      "hasCanvas": false,
+      "bodyTextLen": 13545,
+      "bodyTextHash": "5087b396419af1757da7fd3683f75cfe553425c84281ec14b36691a0456d5550",
+      "bodyTextPrefix": "Jal Rekha 1990–2023 INDIA · 1990–2023 Jal Rekha A ledger of wate",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
