@@ -1,2 +1,2 @@
 'Save Water' is a worn out appeal in India. Our Water has long been seen as a common resource. Jal Rekha is an interactive tracker built from studies, reports and surveys that are global, international and inter-regional perspectives. To thus see for ourselves if statistics published and work done is causing an impact? If there are different indicators, we have shown it specifically to highlight what is measured in fact and avoid all confusing percentages. Data base years are 1990 to 2023, since recent investments after that may be in nascent stage. 
-Code is licensed under MIT; text and educational materials are licensed under CC BY 4.0.
+Code is licensed under Apache 2.0; text and educational materials are licensed under CC BY 4.0.
